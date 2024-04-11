@@ -1,4 +1,3 @@
-### Hi there, am Karen👋
 <h1 align="center">Hi 👋, I'm Karen</h1>
 <h3 align="center"> Programming technician and software developer technician </h3>
 
