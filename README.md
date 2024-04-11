@@ -1,6 +1,6 @@
 ### Hi there, am Karen👋
 <h1 align="center">Hi 👋, I'm Karen</h1>
-<h3 align="center"> Programming technician and qualified software developer technician </h3>
+<h3 align="center"> Programming technician and software developer technician </h3>
 
 <img align="right" alt="codingmanish" width="400" src="https://imgur.com/a/y7s8W4I">
 
