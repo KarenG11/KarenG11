@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Karen</h1>
 <h3 align="center"> Programming technician and software developer technician </h3>
 
-<img src="https://imgur.com/a/y7s8W4I">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarenG11&label=Profile%20views&color=0e75b6&style=flat" alt="kareng11" /> </p>
 
 
