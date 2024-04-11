@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Karen</h1>
 <h3 align="center"> Programming technician and software developer technician </h3>
 
+<img align="right" alt="codingmanish" width="400" src="https://github.com/KarenG11/kareng11/blob/main/codeok_.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarenG11&label=Profile%20views&color=0e75b6&style=flat" alt="kareng11" /> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
