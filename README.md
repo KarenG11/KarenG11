@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Karen</h1>
 <h3 align="center"> Programming technician and qualified software developer technician </h3>
 
-<img align="right" alt="codingmanish" width="400" src="https://imgur.com/a/leDwrqD">
+<img align="right" alt="codingmanish" width="400" src="https://imgur.com/a/y7s8W4I">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingmanish9&label=Profile%20views&color=0e75b6&style=flat" alt="kareng11" /> </p>
 
